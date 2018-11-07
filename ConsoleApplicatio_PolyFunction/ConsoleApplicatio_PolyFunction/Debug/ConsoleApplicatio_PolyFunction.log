@@ -1,0 +1,4 @@
+﻿  ConsoleApplicatio_PolyFunction.cpp
+c:\users\administrator\source\repos\consoleapplicatio_polyfunction\consoleapplicatio_polyfunction\consoleapplicatio_polyfunction.cpp(4): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+c:\users\administrator\source\repos\consoleapplicatio_polyfunction\consoleapplicatio_polyfunction\consoleapplicatio_polyfunction.cpp(62): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  ConsoleApplicatio_PolyFunction.vcxproj -> C:\Users\Administrator\source\repos\ConsoleApplicatio_PolyFunction\Debug\ConsoleApplicatio_PolyFunction.exe

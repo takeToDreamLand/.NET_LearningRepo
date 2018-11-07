@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\ConsoleApp_TestAgregate\ConsoleApp_TestAgregate\bin\Debug\ConsoleApp_TestAgregate.exe.config
+C:\Users\Administrator\source\repos\ConsoleApp_TestAgregate\ConsoleApp_TestAgregate\bin\Debug\ConsoleApp_TestAgregate.exe
+C:\Users\Administrator\source\repos\ConsoleApp_TestAgregate\ConsoleApp_TestAgregate\bin\Debug\ConsoleApp_TestAgregate.pdb
+C:\Users\Administrator\source\repos\ConsoleApp_TestAgregate\ConsoleApp_TestAgregate\obj\Debug\ConsoleApp_TestAgregate.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp_TestAgregate\ConsoleApp_TestAgregate\obj\Debug\ConsoleApp_TestAgregate.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp_TestAgregate\ConsoleApp_TestAgregate\obj\Debug\ConsoleApp_TestAgregate.exe
+C:\Users\Administrator\source\repos\ConsoleApp_TestAgregate\ConsoleApp_TestAgregate\obj\Debug\ConsoleApp_TestAgregate.pdb

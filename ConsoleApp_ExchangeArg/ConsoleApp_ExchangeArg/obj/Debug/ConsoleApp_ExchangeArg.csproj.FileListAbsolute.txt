@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\ConsoleApp_ExchangeArg\ConsoleApp_ExchangeArg\bin\Debug\ConsoleApp_ExchangeArg.exe.config
+C:\Users\Administrator\source\repos\ConsoleApp_ExchangeArg\ConsoleApp_ExchangeArg\bin\Debug\ConsoleApp_ExchangeArg.exe
+C:\Users\Administrator\source\repos\ConsoleApp_ExchangeArg\ConsoleApp_ExchangeArg\bin\Debug\ConsoleApp_ExchangeArg.pdb
+C:\Users\Administrator\source\repos\ConsoleApp_ExchangeArg\ConsoleApp_ExchangeArg\obj\Debug\ConsoleApp_ExchangeArg.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp_ExchangeArg\ConsoleApp_ExchangeArg\obj\Debug\ConsoleApp_ExchangeArg.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp_ExchangeArg\ConsoleApp_ExchangeArg\obj\Debug\ConsoleApp_ExchangeArg.exe
+C:\Users\Administrator\source\repos\ConsoleApp_ExchangeArg\ConsoleApp_ExchangeArg\obj\Debug\ConsoleApp_ExchangeArg.pdb

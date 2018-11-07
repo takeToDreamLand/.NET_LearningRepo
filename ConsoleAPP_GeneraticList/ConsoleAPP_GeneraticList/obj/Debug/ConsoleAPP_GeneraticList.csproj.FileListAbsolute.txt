@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\ConsoleAPP_GeneraticList\ConsoleAPP_GeneraticList\obj\Debug\ConsoleAPP_GeneraticList.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleAPP_GeneraticList\ConsoleAPP_GeneraticList\obj\Debug\ConsoleAPP_GeneraticList.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleAPP_GeneraticList\ConsoleAPP_GeneraticList\bin\Debug\ConsoleAPP_GeneraticList.exe.config
+C:\Users\Administrator\source\repos\ConsoleAPP_GeneraticList\ConsoleAPP_GeneraticList\bin\Debug\ConsoleAPP_GeneraticList.exe
+C:\Users\Administrator\source\repos\ConsoleAPP_GeneraticList\ConsoleAPP_GeneraticList\bin\Debug\ConsoleAPP_GeneraticList.pdb
+C:\Users\Administrator\source\repos\ConsoleAPP_GeneraticList\ConsoleAPP_GeneraticList\obj\Debug\ConsoleAPP_GeneraticList.exe
+C:\Users\Administrator\source\repos\ConsoleAPP_GeneraticList\ConsoleAPP_GeneraticList\obj\Debug\ConsoleAPP_GeneraticList.pdb

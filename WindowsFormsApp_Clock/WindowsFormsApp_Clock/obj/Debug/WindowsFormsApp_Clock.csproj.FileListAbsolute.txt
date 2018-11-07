@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\WindowsFormsApp_Clock\WindowsFormsApp_Clock\bin\Debug\WindowsFormsApp_Clock.exe.config
+C:\Users\Administrator\source\repos\WindowsFormsApp_Clock\WindowsFormsApp_Clock\bin\Debug\WindowsFormsApp_Clock.exe
+C:\Users\Administrator\source\repos\WindowsFormsApp_Clock\WindowsFormsApp_Clock\bin\Debug\WindowsFormsApp_Clock.pdb
+C:\Users\Administrator\source\repos\WindowsFormsApp_Clock\WindowsFormsApp_Clock\obj\Debug\WindowsFormsApp_Clock.Main.resources
+C:\Users\Administrator\source\repos\WindowsFormsApp_Clock\WindowsFormsApp_Clock\obj\Debug\WindowsFormsApp_Clock.Properties.Resources.resources
+C:\Users\Administrator\source\repos\WindowsFormsApp_Clock\WindowsFormsApp_Clock\obj\Debug\WindowsFormsApp_Clock.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\WindowsFormsApp_Clock\WindowsFormsApp_Clock\obj\Debug\WindowsFormsApp_Clock.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WindowsFormsApp_Clock\WindowsFormsApp_Clock\obj\Debug\WindowsFormsApp_Clock.exe
+C:\Users\Administrator\source\repos\WindowsFormsApp_Clock\WindowsFormsApp_Clock\obj\Debug\WindowsFormsApp_Clock.pdb
+C:\Users\Administrator\source\repos\WindowsFormsApp_Clock\WindowsFormsApp_Clock\obj\Debug\WindowsFormsApp_Clock.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\WindowsFormsApp_Clock\WindowsFormsApp_Clock\obj\Debug\WindowsFormsApp_Clock.WaitingForm.resources

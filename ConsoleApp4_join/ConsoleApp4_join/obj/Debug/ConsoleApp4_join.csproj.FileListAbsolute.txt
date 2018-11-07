@@ -1,0 +1,7 @@
+c:\users\administrator\source\repos\ConsoleApp4_join\ConsoleApp4_join\bin\Debug\ConsoleApp4_join.exe.config
+c:\users\administrator\source\repos\ConsoleApp4_join\ConsoleApp4_join\bin\Debug\ConsoleApp4_join.exe
+c:\users\administrator\source\repos\ConsoleApp4_join\ConsoleApp4_join\bin\Debug\ConsoleApp4_join.pdb
+c:\users\administrator\source\repos\ConsoleApp4_join\ConsoleApp4_join\obj\Debug\ConsoleApp4_join.csprojAssemblyReference.cache
+c:\users\administrator\source\repos\ConsoleApp4_join\ConsoleApp4_join\obj\Debug\ConsoleApp4_join.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\ConsoleApp4_join\ConsoleApp4_join\obj\Debug\ConsoleApp4_join.exe
+c:\users\administrator\source\repos\ConsoleApp4_join\ConsoleApp4_join\obj\Debug\ConsoleApp4_join.pdb
